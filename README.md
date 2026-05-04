@@ -3,7 +3,7 @@ Welcome to the Courier Management System Portal! This project aims to simplify p
 
 **Features**
 
-Add sender and receiver details for shipment creation.
+Add sender and receiver details for shipment creation.                                                                              
 Generate tracking ID for each parcel.
 Track courier status in real-time using tracking ID.
 Secure login system for admin and users.
