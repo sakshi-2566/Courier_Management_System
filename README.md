@@ -11,10 +11,7 @@ View and manage delivery details efficiently.
 User-friendly interface for smooth system usage.                                                                                    
 
 👨🏻‍💻 **Tech Stack & Languages used**                                                                                                 
-HTML5, CSS3, Java, JavaScript, Bootstrap, Git, GitHub
-
-🚀 **Libraries & Frameworks**                                                                                                      
-Spring Boot (Backend Framework)
+HTML5, CSS3,JavaScript, Bootstrap, PHP
 
 💻 **Databases**                                                                                                                   
 MySQL
